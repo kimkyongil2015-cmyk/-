@@ -1,0 +1,7 @@
+{
+  "name": "오늘의 꽃 | 기업 행사 전문 플로럴 아키텍처",
+  "description": "세미나, 창립기념식, 오픈 행사부터 VIP 의전까지 기업의 품격을 높이는 맞춤형 B2B 플라워 아키텍처 및 스타일링 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
